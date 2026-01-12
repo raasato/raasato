@@ -1,9 +1,10 @@
 ## Aloha! 🌺
 <img src="self.jpg" height="50%" width="50%">
-<p>My name is Robynne Asato. I am a momther who was born and raised on the island of Oahu in Hawai'i.</p> 
-<p>I am currently attending Arizona State University through the Starbucks College Achievement Program to earn a Bachelors of Science in Food and Nutrition Entrepreneurship. I find web development to be a unique and fun creative outlet, so I am also working towards getting accepted in the the Masters of Science in Graphic Information Technology</p>
-<p>I hope to use my two Associate of Science degrees in Culinary arts and Baking, as well of my Bachelors and Masters degree to achieve my career goal of opening my own restaurant on Oahu, inspired by the unique mix of local cuisine.</p>
-<p>Outside of school and work, My most important role is being a mother to my daughter and son. I am also a Color Guard Instructor with the University of Hawai'i Marching Band, as well as various high school marching band programs on the island.</p> 
+<p>My name is Robynne Asato. I am a mother of two who was born and raised on the island of Oahu in Hawai'i.</p> 
+<p>I am currently attending Arizona State University through the Starbucks College Achievement Program to earn a Bachelors of Science in Food and Nutrition Entrepreneurship.</p>
+<p>I have two Associate of Science degrees from the Culinary Institue of the Pacific at Diamond Head in Culinary arts and Pastry arts. My first passion has been cooking/baking and I have a dream of opening my own restaurant on Oahu, inspired by the unique mix of local cuisine. I found coding while taking elective courses for my undergrad degree and truly fell in love with the creative process.</p>
+<p>My goal after graduation is to continue my education and earn a Master of Science in Graphic Information Technology with a focus in Web Development with Arizona State University.</p>
+<p>Outside of school and work, my most important role is being a mother to my daughter and son. I am also a Color Guard Instructor with the University of Hawai'i Marching Band, as well as various high school marching band programs on the island.</p> 
 <!--
 **raasato/raasato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
