@@ -1,6 +1,6 @@
 ## Aloha! 🌺
 <img src="self.jpg" height="50%" width="50%">
-<p>My name is Robynne Asato. I am a mother of two who was born and raised on the island of Oahu in Hawai'i.</p> 
+<p>My name is Robynne Asato. I was born and raised on the island of Oahu in Hawai'i.</p> 
 <p>I am currently attending Arizona State University through the Starbucks College Achievement Program to earn a Bachelors of Science in Food and Nutrition Entrepreneurship.</p>
 <p>I have two Associate of Science degrees from the Culinary Institue of the Pacific at Diamond Head in Culinary arts and Pastry arts. My first passion has been cooking/baking and I have a dream of opening my own restaurant on Oahu, inspired by the unique mix of local cuisine. I found coding while taking elective courses for my undergrad degree and truly fell in love with the creative process.</p>
 <p>My goal after graduation is to continue my education and earn a Master of Science in Graphic Information Technology with a focus in Web Development with Arizona State University.</p>
